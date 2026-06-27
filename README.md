@@ -1,6 +1,6 @@
 # 🛠️ Titanium Apps
 
-[![License: MIT](https://github.com/rutujmorey7-debug/titanium-apps/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![KDE Frameworks](https://img.shields.io/badge/Frameworks-KDE%206-blue)](https://kde.org/products/frameworks/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
